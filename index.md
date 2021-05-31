@@ -1,4 +1,4 @@
-## Welcome to the Qis kit Monte Carlo Quantum States Classifier 
+## Welcome to the Qiskit Monte Carlo Quantum States Classifier 
 
 You can use the [editor on GitHub](https://github.com/Monte-Carlo-quantum-state-classifier/blog-quantum-state-classifier/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
