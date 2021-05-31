@@ -1,37 +1,5 @@
 ## Welcome to the Qiskit Monte Carlo Quantum States Classifier 
 
-You can use the [editor on GitHub](https://github.com/Monte-Carlo-quantum-state-classifier/blog-quantum-state-classifier/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Pilote project testing by a Monte Carlo simulation a quantum state classifier based on distance matrix computation. The classifier is applied on a set of separable highly entangled quantum states and uses either an ideal model of measurement count distributions or a front-end empirical model.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Monte-Carlo-quantum-state-classifier/blog-quantum-state-classifier/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Details of the project can be found in [this notebook](https://github.com/Monte-Carlo-quantum-state-classifier/blog-quantum-state-classifier/blob/gh-pages/1_project_description.ipynb)
